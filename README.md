@@ -1,6 +1,6 @@
 # React Introduction - Gmail
 
-In this exercise, you are going to recreate the layout of [gmail](./images/gmail-email-view-intro.png) and practice breaking down apps into components.
+In this exercise, you are going to work with the layout of [gmail](./images/gmail-email-view-intro.png) and practice breaking down a larger complex view of an existing codebase into components. As an extra challenge, you can also practice adding new components.
 
 This is a great opportunity to work with a partner, it _could_ look something like this:
 
