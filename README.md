@@ -18,8 +18,8 @@ This is a great opportunity to work with a partner, it _could_ look something li
 
 All the source files you need are in the [src](./src) subdirectory.
 
-- Break down `App.js` into components
-- Break down `app.css` into stylesheets
+- Break down `App.js` into separate components
+- Break down `app.css` into separate stylesheets
 - Import the relevant stylesheets for each component
 
 ## Tips
