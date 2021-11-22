@@ -1,9 +1,5 @@
 # React Introduction - Gmail
 
-**Repo:** boolean-uk-react-gmail-intro
-
-**Description**
-
 In this exercise, we are going to practice breaking down apps into components.
 
 This is a great opportunity to work with a partner, it could look something like this:
