@@ -1,22 +1,31 @@
 # React Introduction - Gmail
 
-In this exercise, we are going to practice breaking down apps into components.
+In this exercise, you are going to recreate the layout of [gmail](/1images/gmail-email-view-intro.png) and practice breaking down apps into components.
 
-This is a great opportunity to work with a partner, it could look something like this:
+This is a great opportunity to work with a partner, it _could_ look something like this:
 
 - Discuss your approach to the task for 15 minutes
 - Work on the exercise separately
 - Have a retrospective session at the end of the day and share your learnings
 
-**Instructions**
+## Prequisites
 
-- Download the files from => https://codesandbox.io/s/react-intro-starter-p4tn2?from-embed
+1. Clone this repository onto your local machines
+2. In the root directory, type `npm install`
+3. Finally, type `npm run start`
+
+## Instructions
+
+All the source files you need are in the [src](./src) subdirectory.
+
 - Break down `App.js` into components
 - Break down `app.css` into stylesheets
 - Import the relevant stylesheets for each component
 
-**Tips**
+## Tips
+
 - You might find that breaking down sections of code using components isn't possible at this time, that's ok. Take these observations into the next few days.
 
-**Challenge**
-- Add a component for writing emails below the `email-actions` buttons, take a look at the image that comes with this message.
+## Challenge
+
+- Add a component for writing emails below the `email-actions` buttons. For an example, take a look at this [image](./images/write-email-component.png).
