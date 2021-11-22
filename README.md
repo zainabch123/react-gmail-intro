@@ -1,7 +1,5 @@
 # React Introduction - Gmail
 
-Today's exercise: 
-
 **Repo:** boolean-uk-react-gmail-intro
 
 **Description**
