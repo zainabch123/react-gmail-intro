@@ -8,7 +8,7 @@ This is a great opportunity to work with a partner, it _could_ look something li
 - Work on the exercise separately
 - Have a retrospective session at the end of the day and share your learnings
 
-## Prequisites
+## Prerequisites
 
 1. Clone this repository onto your local machines
 2. In the root directory, type `npm install`
