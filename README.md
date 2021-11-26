@@ -8,7 +8,7 @@ This is a great opportunity to work with a partner, it _could_ look something li
 - Work on the exercise separately
 - Have a retrospective session at the end of the day and share your learnings
 
-## Prerequisites
+## Setup
 
 1. Fork this repository
 2. Clone the forked repository onto your local machines
