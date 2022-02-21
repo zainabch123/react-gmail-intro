@@ -27,6 +27,6 @@ All the source files you need are in the [src](./src) subdirectory.
 
 - You might find that breaking down sections of code using components isn't possible at this time, that's ok. Take these observations into the next few days.
 
-## Extra Challenge
+## Extension
 
 - Add a component for writing emails below the `email-actions` buttons. For an example, take a look at this [image](./images/write-email-component.png).
