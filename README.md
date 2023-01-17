@@ -16,7 +16,7 @@ This is a great opportunity to work with a partner, it _could_ look something li
 4. Finally, type `npm run start`, which starts a development server that runs your website in the browser. That server will reload your website whenever you make any changes to source files
 
 ## Instructions
-a
+
 All the source files you need are in the [src](./src) subdirectory.
 
 - Break down `app.js` into separate components
