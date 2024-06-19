@@ -1,0 +1,47 @@
+.write-email {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    padding: 0rem 1rem 1rem;
+}
+
+.typing-box {
+    display: grid;
+    grid-template-rows: 40px 200px 40px;
+    border: 2px solid gray;
+    border-radius: 0.5rem;
+    padding: 1rem 1rem;
+    font-weight: bold;
+}
+
+.typing-box-header {
+    display: grid;
+    grid-template-columns: 40px 1fr 40px;
+}
+
+.typing-box-header svg {
+    padding: 10px;
+    width: 100%;
+    fill: rgb(151, 151, 151);
+}
+
+.forward-button svg {
+    padding: 5px 10px;
+}
+
+.email-recipient {
+    padding: 5px 10px;
+    color: rgb(151, 151, 151);
+    font-family: sans-serif;
+    font-size: 18px;
+}
+
+.main-typing-box {
+    text-align: center;
+}
+
+.main-typing-box input {
+    width: 100%;
+    height:100%;
+    border: none;
+}
+
